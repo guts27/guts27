@@ -1,5 +1,6 @@
 <h3 align='center'>Hi, I'm Eunhye 👋</h3>
 <h3 align='center'>Backend developer with experience building AI agent systems in production.</h3>
+<h3 align='center'>Backend developer building B2B AI agents in production. I enjoy exploring Python fundamentals and learning to design robust data pipelines.</h3>
 
 - 🔧 **Tech Stack:** Python, FastAPI, PostgreSQL, Redis, LangGraph, LangChain
 - 🤖 **Current Focus:** AI-powered CRM and CS automation systems
