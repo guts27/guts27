@@ -1,12 +1,8 @@
 <h3 align='center'>Hi, I'm Eunhye 👋</h3>
-<h3 align='center'>Backend developer with experience building AI agent systems 
-in production.</h3>
+**Backend developer with experience building AI agent systems in production.**
 
-<h3 align='center'>- 🔧 Python, FastAPI, PostgreSQL, LangGraph
-- 🤖 Building AI-powered CRM and CS automation systems</h3>
-
-
-- 
+- 🔧 **Tech Stack:** Python, FastAPI, PostgreSQL, LangGraph
+- 🤖 **Current Focus:** Building AI-powered CRM and CS automation systems
 <!-- <br>
 <p align='center'>
   <a href="https://github.com/anuraghazra/github-readme-stats">
